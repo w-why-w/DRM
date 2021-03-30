@@ -1,2 +1,4 @@
-[Local Server:127.0.0.1]
-[Test Server:211.46.174.7]
+{
+  "ServerName": "WHY DRM TEST",
+  "ServerIP": "211.46.174.7",
+},
