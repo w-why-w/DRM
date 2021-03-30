@@ -1,5 +1,5 @@
 {
   "ServerName": "WHY DRM TEST",
-  "ServerIP": "211.46.174.7",
+  "ServerIP": 211.46.174.7,
   "ServerKey": "f66c1f685efe699c46fb81e9164aacb12f499e3e3087c829a5481e3df4043fea",
 }
